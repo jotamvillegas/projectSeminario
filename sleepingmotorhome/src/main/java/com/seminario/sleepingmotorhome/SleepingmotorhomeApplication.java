@@ -8,7 +8,7 @@ public class SleepingmotorhomeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SleepingmotorhomeApplication.class, args);
-        //  comentary
+
     }
 
 }
